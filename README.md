@@ -57,13 +57,13 @@ print("hello world")
 ```
 
 ## Sección 1
-
+#seccion-1
 Contenido de la sección 1.
 
 ## Sección 2
-
+#seccion-2
 Contenido de la sección 2.
 
 ## Sección 3
-
+#seccion-3
 Contenido de la sección 3.

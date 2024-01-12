@@ -1,5 +1,12 @@
 # Ejemplo de Botón en Markdown
 
+# Índice
+
+1. [Sección 1](#seccion-1)
+2. [Sección 2](#seccion-2)
+3. [Sección 3](#seccion-3)
+
+
 Este es un ejemplo de cómo agregar un botón en un documento Markdown.
 
 <button onclick="alert('¡Hola desde el botón!')">Haz clic en mí</button>
@@ -49,3 +56,14 @@ ___
 print("hello world")
 ```
 
+## Sección 1
+
+Contenido de la sección 1.
+
+## Sección 2
+
+Contenido de la sección 2.
+
+## Sección 3
+
+Contenido de la sección 3.

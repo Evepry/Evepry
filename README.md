@@ -1,7 +1,5 @@
-# ARCHIVO OFICIAL DE PERFIL
-
-# BANNER PRINCIPAL
-
+<!--ARCHIVO OFICIAL DE PERFIL-->
+<!--BANNER PRINCIPAL-->
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://github.com/Evepry">Evepry</a> 👋</h1>
 </div>

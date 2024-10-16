@@ -4,7 +4,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://github.com/Evepry">Evepry</a> 👋</h1>
 </div>
-<img src="img/Guia Linkedin.png">
+<img src="img/Github banner">
 
 # 💫 About Me:
 🔭 Me apasiona la ciberseguridad<br>👯 Actualmente estoy trabajando en el área de monitoreo de redes<br>🤝 Realizo proyectos en AWS, Azure y OCI<br>🌱 Estoy aprendiendo a ser WEB DEVELOPER FULL STACK<br>💬 Me estoy capacitando en Fortinet<br>⚡ Estoy en proceso de aprender más sobre API REST<br><br>
